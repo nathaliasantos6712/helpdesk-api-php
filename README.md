@@ -51,10 +51,7 @@ helpdesk-api/
 ├── public/
 │   └── index.php            # Roteador (único ponto de entrada da API)
 ├── .env.example             # Modelo de configuração de ambiente
-└── ESTRUTURA.md             # Explicação detalhada de cada arquivo
-```
 
-> Veja [`ESTRUTURA.md`](./ESTRUTURA.md) para entender o que cada arquivo faz e o fluxo completo de uma requisição.
 
 ---
 
